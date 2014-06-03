@@ -31,13 +31,6 @@ Designers
 Application contain 4 theme colors and 1 main blue color. It's included main.css 
 separate file for all styles.
 
-System bugs
------------
-
-If user will update the contact or note thru updating  page menu and providing 
-incorrect contact email or note name the application will except the submission 
-but not update the data.
-
 User features
 -------------
 
@@ -54,8 +47,8 @@ page.
 
 Test environment for user:
 
-   email: speed@mail.com    
-   password: speed
+   - email: speed@mail.com    
+   - password: speed
 
 Admin features
 -------------
@@ -67,8 +60,15 @@ Admin features
    6. Logout
 
 Test environment for admin:
-   email: admin2@mail.com
-   password: admin60
+   - email: admin2@mail.com
+   - password: admin60
+
+Bugs
+----
+
+If user will update the contact or note thru updating  page menu and providing 
+incorrect contact email or note name the application will except the submission 
+but not update the data.
 
 Not working app components
 --------------------------
