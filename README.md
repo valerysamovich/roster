@@ -45,12 +45,12 @@ New user need to be registered with real email and activate the account thru the
 email activation link. After successful registration process user can login in login 
 page.
 
-   1.Register with email activation
-   2.Login with email and password
-   3.View contacts and notes
-   4.Create, update and delete contacts
-   5.Create, update and delete notes
-   6.Logout
+   1. Register with email activation
+   2. Login with email and password
+   3. View contacts and notes
+   4. Create, update and delete contacts
+   5. Create, update and delete notes
+   6. Logout
 
 Test environment for user:
 
@@ -60,11 +60,11 @@ Test environment for user:
 Admin features
 -------------
 
-   1.Login with email and password
-   2.View all users
-   3.View all contacts
-   4.View all notes
-   6.Logout
+   1. Login with email and password
+   2. View all users
+   3. View all contacts
+   4. View all notes
+   6. Logout
 
 Test environment for admin:
    email: admin2@mail.com
@@ -75,6 +75,6 @@ Not working app components
 
 Application components which not work as they should:
 
-   1.Activation Script
-   2.Pagination for data
-   3.Note Redirection page with preview for whole note
+   1. Activation Script
+   2. Pagination for data
+   3. Note Redirection page with preview for whole note
