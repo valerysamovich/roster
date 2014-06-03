@@ -70,7 +70,7 @@ If user will update the contact or note thru updating  page menu and providing
 incorrect contact email or note name the application will except the submission 
 but not update the data.
 
-Not working app components
+Components
 --------------------------
 
 Application components which not work as they should:
