@@ -2,7 +2,6 @@ roster
 ======
 
 Contacts and notes managment application
-----------------------------------------
 
 Introduction
 ------------
