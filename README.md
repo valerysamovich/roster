@@ -52,10 +52,13 @@ Bugs
 If user will update the contact or note thru updating  page menu and providing incorrect contact email or note name the application will except the submission but not update the data.
 
 Components
---------------------------
+----------
 
 Application components which not work as they should:
 
    1. Activation Script
    2. Pagination for data
    3. Note Redirection page with preview for whole note
+
+Developer
+---------
