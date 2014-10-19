@@ -3,8 +3,8 @@ roster
 
 Contacts and notes managment application. Roster App is a web based contact applications for keeping all contacts in one place online. The site has a simple interface and navigation. The application include three different tables usertbl, contactstbl, notestbl. Application include login, registration, and admin level login.
 
-Programmers
------------
+How it works
+------------
 
 Roster is contact management application build with PHP script language and MySQL database. To view the all users and all notes must have the admin right to login. To add a new page the language.inc.php file need to be updated and constants for title, meta-tags and meta-description must be defined. To add a new option in menu the adminarea.inc.php or roster.inc.php need to be modified. The navigation and footer menu can be modified from functions.inc.php file.
 
