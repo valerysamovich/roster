@@ -1,5 +1,4 @@
-roster
-======
+# Roster
 
 Contacts and notes managment application. **Roster** App is a web based contact applications for keeping all contacts in one place online. The site has a simple interface and navigation. The application include three different tables usertbl, contactstbl, notestbl. Application include login, registration, and admin level login.
 
