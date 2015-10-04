@@ -59,7 +59,3 @@ Application components which not work as they should:
    1. Activation Script
    2. Pagination for data
    3. Note Redirection page with preview for whole note
-
-Developer
----------
-www.linkedin.com/pub/valery-samovich/22/81/1bb/
